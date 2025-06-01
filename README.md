@@ -2,6 +2,7 @@
 Research Paper optimization
 I have incorporated this project by using Langchain and Mistral model, which will tells us how to summarize the research paper, also what are strengths and weakness of the paper. 
 AI Agents plays important role in searching, downloading, and summarizing the paper.
+Thank you OmarTamer
 
 sci-nav/
 ├── backend/
